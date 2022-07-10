@@ -1,6 +1,8 @@
-# behaviors [Archived. See dotfiles]
+# behaviors
 
-🍎 Xcode behavior scripts supercharging your efficiency 
+🍎 Xcode behavior scripts supercharging your efficiency. 
+
+This repository has been archived and the behaviors contents will live under the dotfiles repository.
 
 ### Installation
 
