@@ -1,4 +1,4 @@
-# behaviors
+# behaviors [Archived. See dotfiles]
 
 🍎 Xcode behavior scripts supercharging your efficiency 
 
